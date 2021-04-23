@@ -10,6 +10,7 @@
     <?php
     echo "Aula - Gestão de Configuração!</br>";
     echo "Engenharia de Software II";
+    echo "Bom fds para todos!!";
     ?>
 </body>
 </html>
