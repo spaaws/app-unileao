@@ -20,9 +20,9 @@ class TableRows extends RecursiveIteratorIterator {
   }
 }
 
-$servername = "localhost";
-$username   = "root";
-$password   = "";
+$servername = "ik1eybdutgxsm0lo.cbetxkdyhwsb.us-east-1.rds.amazonaws.com";
+$username   = "co8f00xb6adb62fj";
+$password   = "xaaty6r4puyceze4";
 $dbname     = "oingyrsuk1jbsiga";
 
 try {
