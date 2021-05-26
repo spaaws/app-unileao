@@ -1,6 +1,6 @@
 <?php
-  include '../db/connect.php';
-  $conn = connection();
+  // include '../db/connect.php';
+  // $conn = connection();
 
   $servername = "ik1eybdutgxsm0lo.cbetxkdyhwsb.us-east-1.rds.amazonaws.com";
   $username   = "co8f00xb6adb62fj";
