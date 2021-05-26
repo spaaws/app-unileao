@@ -1,5 +1,5 @@
 <?php
-  function connection() {
+  //function connection() {
 
       $servername = "ik1eybdutgxsm0lo.cbetxkdyhwsb.us-east-1.rds.amazonaws.com";
       $username   = "co8f00xb6adb62fj";
@@ -14,5 +14,5 @@
       } catch(PDOException $e) {
         echo "Connection failed: " . $e->getMessage();
       }
-  }
+  //}
 ?>
